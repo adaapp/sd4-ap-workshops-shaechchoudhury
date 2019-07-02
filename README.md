@@ -4,7 +4,7 @@ Welcome to Ada's Advanced Programming module. For each workshop, please create a
 
 ## Get going:
 
-`git clone [repo url] ap-worshops`
+`git clone [repo url] ap-workshops`
 
 `cd ap-workshops`
 
